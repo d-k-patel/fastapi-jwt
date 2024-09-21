@@ -1,0 +1,11 @@
+fastapi[standard]
+uvicorn
+python-lsp-black
+pytest
+pytest-cov
+sqlalchemy
+passlib[bcrypt]
+colorama
+isort
+python-jose[cryptography]
+pyjwt[crypto]
